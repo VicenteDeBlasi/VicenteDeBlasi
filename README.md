@@ -4,7 +4,7 @@
 
 ##### LinkedIn: https://www.linkedin.com/in/vicente-de-blasi-sanguinetti-869585266/
 
-Bienvenidos, Mi nombre es Vicente "tente" De Blasi, Argentino, Pampeano y apasionado desarrollador web con +1000hs de experiencia practica/teorica de manera autodidacta y en SoyHenry, un BootCamp intensivo el cual causo que la pasion por la programacion se vuelva una mezcla de locura y amor. Ya sea haciendo proyectos o leyendo documentacion siempre busco formas de detectar problemas y crear soluciones. Enamorado del back end, pero me desenvuelvo con confianza en cualquier rol del stack.
+Bienvenidos, Mi nombre es Vicente "tente" De Blasi, Argentino, Pampeano y apasionado desarrollador web con +1000hs de experiencia practica/teorica de manera autodidacta y en SoyHenry. Ya sea haciendo proyectos o leyendo documentacion siempre busco formas de detectar problemas y crear soluciones. Enamorado del back end, pero me desenvuelvo con confianza en cualquier rol del stack.
 
 ### Skills & Technologies
 HTML | CSS | JavaScript | Git | GitHub | Express | SQL | Scrum | Metodologías ágiles | Node.js | Sequelize | API Rest | Typescript | PostgreSQL | React | Redux
